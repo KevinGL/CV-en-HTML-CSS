@@ -1,0 +1,36 @@
+h1
+{
+	text-align: center;
+}
+
+h2
+{
+	border: solid blue;
+	display: table;
+	padding: 5px;
+}
+
+h3
+{
+	text-decoration: underline;
+}
+
+img
+{
+	width: 15%;
+	height: auto;
+	float: right;
+}
+
+body
+{
+	font-family: Arial;
+	font-size: 15px;
+	background-image: url("greyzz.png");
+	background-attachment: fixed;
+}
+
+#Presentation
+{
+	text-align: center;
+}
